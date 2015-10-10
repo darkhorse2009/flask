@@ -28,7 +28,7 @@ class TestingConfig(Config):
 #test4
 #
 #test5
-#
+#test6 sidebar
 
 config = {
         'testing': TestingConfig,
