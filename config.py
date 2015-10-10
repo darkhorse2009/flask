@@ -19,6 +19,16 @@ class TestingConfig(Config):
     MONGO_URL = 'mongodb://localhost:27017/'
     MONGO_DB = 'data_test'
 
+###sublimegit test
+#test = {'a':'a','b':'b'}
+#thanks
+#test2
+#test3
+#
+#test4
+#
+#test5
+#
 
 config = {
         'testing': TestingConfig,
